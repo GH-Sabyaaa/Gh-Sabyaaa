@@ -1,17 +1,59 @@
 <h1 align="center">Hi 👋, I'm Sabyasachi Nayak</h1>
-<h3 align="center">Student | Passionate about Frontend Development & Problem Solving .</h3>
+<h3 align="center">Aspiring Generative AI Engineer | LLM Enthusiast | AI Application Builder 🚀</h3>
 
-- 🌱 I’m currently learning **Node.js , Angular**
+---
 
-- 💬 Ask me about **Java,javascript,react**
+### 🤖 About Me
 
-- 📫 How to reach me **sabyasachinayak845@gmail.**
+- 🎓 B.Tech CSE Student  
+- 🔄 Transitioning from Frontend Development to Generative AI  
+- 🧠 Deeply curious about LLMs, AI systems & intelligent applications  
+- 🌱 Currently learning:  
+  - Large Language Models (LLMs)  
+  - Prompt Engineering  
+  - Retrieval-Augmented Generation (RAG)  
+  - AI-powered Web Applications  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabyasachi nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabyasachi nayak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sabyasachii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabyasachii" height="30" width="40" /></a>
-</p>
+- 💬 Ask me about: JavaScript, React, APIs & AI integrations  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 AI & GenAI Focus
+
+- Building AI-powered apps using LLM APIs  
+- Understanding how Transformers & LLMs work  
+- Exploring Vector Databases & Embeddings  
+- Learning Model Fine-tuning concepts  
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming:**  
+Java | JavaScript  
+
+**AI & GenAI:**  
+OpenAI APIs | Prompt Engineering | RAG | LLM Workflows  
+
+**Web Foundations (for AI Apps):**  
+React | Node.js | Express | REST APIs  
+
+**Database:**  
+MongoDB | MySQL  
+
+**Tools:**  
+Git | GitHub | Postman | VS Code  
+
+---
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/sabyasachi-nayak  
+- 💻 LeetCode: https://leetcode.com/sabyasachii  
+- 📧 Email: sabyasachinayak845@gmail.com  
+
+---
+
+### 🚀 Vision
+
+"Building intelligent systems that think, reason, and assist humans."
